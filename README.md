@@ -17,4 +17,4 @@ The repo is structured as:
 -   `sketches` contains the sketches used when planning the data.
 
 ## LLM Disclosure
-ChatGPT4 and ChatGPT4o was used in the writing of this code, details about usage are available in other/llm_usage.txt
+ChatGPT4 and ChatGPT4o was used in the writing of this code, details about usage are available in other/llm_usage.txt.
